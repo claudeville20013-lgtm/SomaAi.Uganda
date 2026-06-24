@@ -44,6 +44,4 @@ fun GreetingPreview() {
     SomaAiTheme {
         Greeting("Android")
     }
-
-
-    
+}
